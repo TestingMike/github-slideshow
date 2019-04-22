@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+What no money?? Here is a clock!
 Use the left arrow to go back!
